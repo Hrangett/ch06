@@ -39,5 +39,8 @@
     <ClCompile Include="07_PublicStaticMember.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="08_ConstStaticMember.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
